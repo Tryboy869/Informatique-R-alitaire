@@ -2,6 +2,13 @@
 
 Merci de votre intérêt pour contribuer à Informatique Réalitaire (IR) !
 
+## ⚠️ Note Importante sur la Licence
+
+Ce projet est sous **Licence Propriétaire**. En contribuant, vous acceptez que :
+- Vos contributions soient sous la même licence propriétaire
+- La méthodologie sous-jacente reste confidentielle
+- L'usage commercial nécessite une licence séparée
+
 ## 🎯 Comment Contribuer
 
 ### Rapporter des Bugs
@@ -37,7 +44,7 @@ Merci de votre intérêt pour contribuer à Informatique Réalitaire (IR) !
 - Suivre PEP 8
 - Utiliser Black pour formatting: `black app.py`
 - Utiliser Ruff pour linting: `ruff check app.py`
-- Type hints obligatoires: `mypy app.py`
+- Type hints recommandés
 
 ### Commits
 
@@ -57,9 +64,15 @@ Exemple: `feat(orchestrator): add multi-agent scaling`
 
 - Tous nouveaux features doivent avoir tests
 - Run tests: `pytest tests/`
-- Coverage minimum: 80%
 
-## 🔬 Domaines de Contribution
+## 🔒 Restrictions
+
+**Ne PAS inclure dans contributions :**
+- Détails sur la méthodologie propriétaire
+- Tentatives de reverse engineering
+- Contenu sous copyright tiers
+
+## 🔬 Domaines de Contribution Acceptés
 
 ### Prioritaires
 
@@ -67,27 +80,19 @@ Exemple: `feat(orchestrator): add multi-agent scaling`
    - OpenAI, Anthropic, Mistral, etc.
    - Standardisation interface
 
-2. **Server HTTP**
-   - FastAPI implementation
-   - WebSocket support temps-réel
+2. **Optimisations Performance**
+   - Scaling agents
+   - Réduction latence
 
-3. **Monitoring & Analytics**
-   - Dashboard visualisation
-   - Métriques temps-réel
+3. **Documentation**
+   - Exemples d'utilisation
+   - Guides utilisateurs
 
-### Recherche
+### Refusés
 
-1. **Nouveaux Environnements RI**
-   - Templates monde personnalisables
-   - Générateurs procéduraux
-
-2. **Benchmarks**
-   - Suite tests standardisés
-   - Comparaison providers LLM
-
-3. **Extensions DECAP NEXUS**
-   - Application autres paradigmes
-   - Documentation méthodologie
+- Modifications méthodologie propriétaire
+- Extraction/documentation techniques confidentielles
+- Usage commercial non-licencié
 
 ## 📞 Contact
 
@@ -97,4 +102,4 @@ Questions? Contactez:
 
 ## 📄 Licence
 
-En contribuant, vous acceptez que votre code soit sous licence MIT.
+En contribuant, vous acceptez que votre code soit sous Licence Propriétaire.
