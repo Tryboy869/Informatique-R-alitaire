@@ -1,0 +1,107 @@
+# PROPRIETARY LICENSE
+
+## Copyright Notice
+
+Copyright (c) 2025 Daouda Abdoul Anzize  
+All Rights Reserved
+
+## Terms and Conditions
+
+### 1. DEFINITIONS
+
+"Software" refers to the Informatique Réalitaire (IR) framework code, documentation, and associated materials.
+
+"Methodology" refers to the proprietary analytical and optimization methodology used to develop the Software.
+
+"Licensee" refers to any individual or organization using the Software.
+
+"Commercial Use" means any use primarily intended for commercial advantage or monetary compensation.
+
+### 2. GRANT OF LICENSE
+
+#### 2.1 Research and Personal Use
+
+Subject to the terms of this license, the Licensor grants Licensee a limited, non-exclusive, non-transferable, revocable license to:
+
+- Use the Software for academic research purposes
+- Use the Software for personal, non-commercial experimentation
+- Modify the Software for research purposes
+- Share research results citing this Software appropriately
+
+#### 2.2 Restrictions
+
+Licensee may NOT:
+
+- Use the Software for Commercial Use without explicit written permission
+- Distribute, sublicense, or sell copies of the Software without authorization
+- Remove or modify copyright notices or license terms
+- Reverse engineer or attempt to extract the proprietary Methodology
+- Use the Software in production systems without a commercial license
+- Create derivative works for commercial distribution
+
+### 3. PROPRIETARY METHODOLOGY
+
+The underlying methodology, optimization techniques, and analytical frameworks used to develop the Software are PROPRIETARY and CONFIDENTIAL.
+
+These methodologies are NOT open-source and are NOT included in this license grant.
+
+Access to the complete methodology requires a separate commercial licensing agreement.
+
+### 4. COMMERCIAL LICENSING
+
+For Commercial Use, production deployment, or access to proprietary methodologies, contact:
+
+**Email:** nexusstudio100@gmail.com  
+**Subject:** IR Commercial License Inquiry
+
+Commercial licenses are available for:
+- Enterprise deployment
+- Production systems
+- Access to proprietary methodology
+- Consulting and support services
+- Training and certification programs
+
+### 5. ATTRIBUTION
+
+Any use of the Software in research or publications must include appropriate citation:
+
+```
+Anzize, D. A. (2025). Informatique Réalitaire (IR): Un Cadre Inspiré 
+de la RV pour l'Intelligence Artificielle Incarnée. 
+https://github.com/Tryboy869/informatique-realitaire
+```
+
+### 6. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### 7. TERMINATION
+
+This license automatically terminates if Licensee breaches any terms. Upon termination, Licensee must cease all use and destroy all copies of the Software.
+
+### 8. GOVERNING LAW
+
+This license shall be governed by and construed in accordance with applicable international copyright laws.
+
+### 9. ENTIRE AGREEMENT
+
+This license constitutes the entire agreement between the parties concerning the Software and supersedes all prior agreements.
+
+### 10. CONTACT
+
+For questions about this license:
+
+**Daouda Abdoul Anzize**  
+Email: nexusstudio100@gmail.com  
+GitHub: @Tryboy869
+
+---
+
+**ACCEPTANCE**
+
+By using, copying, or distributing the Software, Licensee agrees to be bound by the terms of this license.
+
+**Date:** October 7, 2025  
+**Version:** 1.0
