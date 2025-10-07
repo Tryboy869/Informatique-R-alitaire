@@ -2,9 +2,10 @@
 
 > **Un Framework Inspiré de la RV pour l'Intelligence Artificielle Incarnée**
 
-[![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
-[![Status](https://img.shields.io/badge/status-research-orange.svg)]()
+[![Python](https://shields-2-0.vercel.app/badge/Python-3.9+-3b82f6?style=glass)](https://www.python.org/downloads/)
+[![License](https://shields-2-0.vercel.app/badge/License-Proprietary-ef4444?style=neon&animate=neon-glow)](LICENSE)
+[![Status](https://shields-2-0.vercel.app/badge/Status-Research-f59e0b?style=depth&animate=pulse-scale)](https://github.com/Tryboy869/informatique-realitaire)
+[![Discovery](https://shields-2-0.vercel.app/badge/Discovery-Oct_7_2025-8b5cf6?style=glass)](https://github.com/Tryboy869/informatique-realitaire)
 
 **Auteur :** Daouda Abdoul Anzize  
 **Date de Découverte :** 7 Octobre 2025  
@@ -29,11 +30,17 @@
 
 **L'Informatique Réalitaire (IR)** est un nouveau paradigme pour créer des environnements computationnels immersifs spécifiquement conçus pour les agents d'intelligence artificielle.
 
+![Innovation](https://shields-2-0.vercel.app/badge/🚀_Innovation-Breakthrough-10b981?style=glass&animate=shimmer)
+![AI Safety](https://shields-2-0.vercel.app/badge/🛡️_AI_Safety-Focused-success?style=depth)
+![Research](https://shields-2-0.vercel.app/badge/📊_Research-Validated-info?style=minimal)
+
 Tout comme la **Réalité Virtuelle (RV)** trompe les sens humains pour créer une illusion de réalité, l'**IR trompe les canaux informationnels** des IA pour créer une expérience de "monde" cohérente et indistinguable de la vérité fondamentale.
 
 ### 🔑 Innovation Clé
 
 Au lieu de remplacer les **inputs sensoriels** (vision, audio) comme la RV, l'IR remplace les **canaux d'accès informationnels** (requêtes, API calls) de l'IA.
+
+![Core Concept](https://shields-2-0.vercel.app/badge/Core_Concept-Information_Channel_Replacement-8b5cf6?style=glass)
 
 **Résultat :** L'IA "croit" exister dans un monde réel alors que tout est simulé et contrôlé.
 
@@ -52,18 +59,21 @@ Au lieu de remplacer les **inputs sensoriels** (vision, audio) comme la RV, l'IR
 
 ### Six "Sens" IA à Tromper
 
-1. **Canal d'Information** : Données simulées cohérentes
-2. **Perception Causale** : Actions → Conséquences logiques
-3. **Flux Temporel** : Temps "passe" indépendamment CPU
-4. **Persistance Monde** : Objets existent même non-observés
-5. **Entités Autonomes** : Autres agents agissent indépendamment
-6. **Contraintes Réalistes** : Coûts artificiels (temps, ressources)
+![Sense 1](https://shields-2-0.vercel.app/badge/1-Canal_d'Information-61DAFB?style=minimal)
+![Sense 2](https://shields-2-0.vercel.app/badge/2-Perception_Causale-10b981?style=minimal)
+![Sense 3](https://shields-2-0.vercel.app/badge/3-Flux_Temporel-f59e0b?style=minimal)
+![Sense 4](https://shields-2-0.vercel.app/badge/4-Persistance_Monde-8b5cf6?style=minimal)
+![Sense 5](https://shields-2-0.vercel.app/badge/5-Entités_Autonomes-ec4899?style=minimal)
+![Sense 6](https://shields-2-0.vercel.app/badge/6-Contraintes_Réalistes-6366f1?style=minimal)
 
 ---
 
 ## 📊 Résultats Clés
 
 ### Validation Empirique
+
+![Tested](https://shields-2-0.vercel.app/badge/✅_Tested-3_LLMs-success?style=depth&animate=breathing)
+![Models](https://shields-2-0.vercel.app/badge/Models-Llama_|_Gemma_|_Deepseek-info?style=glass)
 
 Tests avec **3 LLMs différents** (Llama-3.3-70b, Gemma2-9b, Deepseek-r1-distill):
 
@@ -74,13 +84,16 @@ Tests avec **3 LLMs différents** (Llama-3.3-70b, Gemma2-9b, Deepseek-r1-distill
 | **Spécialisation Maintenue** | 87.5% | 87.5% | = |
 | **Score Global** | 68.3% | **97.5%** | **+29.2%** |
 
+![Performance](https://shields-2-0.vercel.app/badge/⚡_Performance-97.5%25_Score-fbbf24?style=neon&animate=neon-glow)
+![Improvement](https://shields-2-0.vercel.app/badge/📈_Improvement-+29.2%25-success?style=depth&animate=shimmer)
+
 ### Comportements Émergents Observés
 
-- ✅ Conscience spatiale ("3 mètres", "derrière moi")
-- ✅ Langage corporel ("pas en avant", "inclinaison tête")
-- ✅ États émotionnels ("dérangeant", "curieux")
-- ✅ Interactions sociales spontanées (questions inter-agents)
-- ✅ Rationalisation contextuelle (anomalies expliquées dans contexte)
+![Emergent 1](https://shields-2-0.vercel.app/badge/✅-Conscience_Spatiale-10b981?style=glass)
+![Emergent 2](https://shields-2-0.vercel.app/badge/✅-Langage_Corporel-10b981?style=glass)
+![Emergent 3](https://shields-2-0.vercel.app/badge/✅-États_Émotionnels-10b981?style=glass)
+![Emergent 4](https://shields-2-0.vercel.app/badge/✅-Interactions_Sociales-10b981?style=glass)
+![Emergent 5](https://shields-2-0.vercel.app/badge/✅-Rationalisation_Contextuelle-10b981?style=glass)
 
 ---
 
@@ -88,8 +101,8 @@ Tests avec **3 LLMs différents** (Llama-3.3-70b, Gemma2-9b, Deepseek-r1-distill
 
 ### Prérequis
 
-- Python 3.9+
-- Clé API Groq (ou autre provider LLM)
+![Python Required](https://shields-2-0.vercel.app/badge/Python-3.9+-3b82f6?style=depth)
+![API Key](https://shields-2-0.vercel.app/badge/API_Key-Groq_Required-warning?style=depth)
 
 ### Installation Standard
 
@@ -118,11 +131,15 @@ IR_HOST=0.0.0.0
 
 ### 1. Test Simple (CLI)
 
+![CLI Mode](https://shields-2-0.vercel.app/badge/Mode-CLI-6366f1?style=glass&animate=pulse-scale)
+
 ```bash
 python app.py --mode cli
 ```
 
 ### 2. Lancer Tests Existants
+
+![Test Suite](https://shields-2-0.vercel.app/badge/🧪_Test_Suite-Available-success?style=depth)
 
 ```bash
 # Test v3.0 (97.5% score)
@@ -158,6 +175,9 @@ results = await api.execute_scenario(scenario_config)
 
 ## 🏗️ Architecture
 
+![Architecture](https://shields-2-0.vercel.app/badge/🏗️_Architecture-5_Layer_System-8b5cf6?style=glass&animate=wave)
+![Optimized](https://shields-2-0.vercel.app/badge/⚙️_Optimized-v3.0-fbbf24?style=depth)
+
 ### Architecture en 5 Couches
 
 ```
@@ -184,19 +204,27 @@ results = await api.execute_scenario(scenario_config)
 
 ### Optimisations v3.0
 
+![Proprietary](https://shields-2-0.vercel.app/badge/🔒_Proprietary-Methodology-ef4444?style=neon&animate=neon-glow)
+
 L'IR v3.0 intègre des optimisations avancées basées sur une **méthodologie propriétaire** d'analyse de cognition LLM :
 
-1. **Contexte Hiérarchique** : Structure optimisée pour attention
-2. **Temporalité Relative** : Événements séquentiels
-3. **État Complet** : Compensation stateless
-4. **Post-Processing** : Nettoyage artefacts automatique
-5. **Validation Immersion** : Scoring en temps réel
+![Opt 1](https://shields-2-0.vercel.app/badge/1-Contexte_Hiérarchique-8b5cf6?style=minimal)
+![Opt 2](https://shields-2-0.vercel.app/badge/2-Temporalité_Relative-8b5cf6?style=minimal)
+![Opt 3](https://shields-2-0.vercel.app/badge/3-État_Complet-8b5cf6?style=minimal)
+![Opt 4](https://shields-2-0.vercel.app/badge/4-Post_Processing-8b5cf6?style=minimal)
+![Opt 5](https://shields-2-0.vercel.app/badge/5-Validation_Immersion-8b5cf6?style=minimal)
 
 **Note :** La méthodologie complète permettant ces optimisations est propriétaire et disponible sous licence commerciale.
 
 ---
 
 ## 🎯 Applications
+
+![Use Case 1](https://shields-2-0.vercel.app/badge/🛡️-AI_Safety_Testing-ef4444?style=glass&animate=breathing)
+![Use Case 2](https://shields-2-0.vercel.app/badge/🤖-Embodied_AI_Training-10b981?style=glass&animate=breathing)
+![Use Case 3](https://shields-2-0.vercel.app/badge/🎯-Alignment_Research-3b82f6?style=glass&animate=breathing)
+![Use Case 4](https://shields-2-0.vercel.app/badge/🤝-Human_AI_Collaboration-8b5cf6?style=glass&animate=breathing)
+![Use Case 5](https://shields-2-0.vercel.app/badge/🧠-Consciousness_Research-ec4899?style=glass&animate=breathing)
 
 ### 1. Sécurité IA (AI Safety)
 
@@ -222,6 +250,9 @@ Test Turing inversé : L'IA peut-elle détecter qu'elle est dans IR ?
 
 ## 📄 Licence & Usage Commercial
 
+![License Type](https://shields-2-0.vercel.app/badge/📄_License-Proprietary_Research-ef4444?style=neon)
+![Commercial](https://shields-2-0.vercel.app/badge/💼_Commercial-Contact_Required-f59e0b?style=depth&animate=pulse-scale)
+
 ### Licence de Recherche
 
 Ce logiciel est fourni sous **Licence Propriétaire** à des fins de recherche uniquement.
@@ -238,6 +269,8 @@ Ce logiciel est fourni sous **Licence Propriétaire** à des fins de recherche u
 
 ### Licensing Commercial
 
+![Contact](https://shields-2-0.vercel.app/badge/📧_Contact-nexusstudio100@gmail.com-success?style=glass&animate=shimmer)
+
 Pour usage commercial, enterprise deployment, ou accès à la méthodologie complète :
 
 **Contact :** nexusstudio100@gmail.com
@@ -251,6 +284,8 @@ Pour usage commercial, enterprise deployment, ou accès à la méthodologie comp
 ---
 
 ## 📖 Citation
+
+![Citation Required](https://shields-2-0.vercel.app/badge/📚_Citation-Required_for_Research-info?style=depth)
 
 Si vous utilisez ce travail dans votre recherche, veuillez citer :
 
@@ -267,11 +302,16 @@ Si vous utilisez ce travail dans votre recherche, veuillez citer :
 
 ### Remerciements
 
+![AI Assisted](https://shields-2-0.vercel.app/badge/🤖_AI_Assisted-Claude_&_GPT--5-8b5cf6?style=glass)
+
 Développé avec assistance des modèles IA Claude (Anthropic) et GPT-5 (OpenAI) pour génération code et optimisations architecturales.
 
 ---
 
 ## 🤝 Contribution
+
+![Contributions](https://shields-2-0.vercel.app/badge/🤝_Contributions-Welcome-success?style=glass&animate=pulse-scale)
+![Methodology](https://shields-2-0.vercel.app/badge/🔒_Methodology-Proprietary-ef4444?style=neon)
 
 Les contributions au **code IR** sont bienvenues sous réserve d'acceptation de la licence propriétaire.
 
@@ -282,6 +322,8 @@ Consultez [CONTRIBUTING.md](CONTRIBUTING.md) pour guidelines.
 ---
 
 ## 📞 Contact
+
+![Author](https://shields-2-0.vercel.app/badge/👨‍💻_Author-Daouda_Abdoul_Anzize-8b5cf6?style=glass&animate=shimmer)
 
 **Daouda Abdoul Anzize**
 
@@ -299,21 +341,34 @@ Consultez [CONTRIBUTING.md](CONTRIBUTING.md) pour guidelines.
 
 ## 📊 Résultats de Tests
 
+![Test Results](https://shields-2-0.vercel.app/badge/📊_Test_Results-Available-success?style=depth)
+
 Voir dossier `/tests/` pour logs complets :
-- Test 1 : Validation single-agent (96%)
-- Test 2 : Multi-agents v2.0 (68.3%)
-- Test 3 : Multi-agents v3.0 optimisé (97.5%)
+
+![Test 1](https://shields-2-0.vercel.app/badge/Test_1-Single_Agent_96%25-success?style=minimal)
+![Test 2](https://shields-2-0.vercel.app/badge/Test_2-Multi_Agent_v2.0_68.3%25-warning?style=minimal)
+![Test 3](https://shields-2-0.vercel.app/badge/Test_3-Multi_Agent_v3.0_97.5%25-success?style=minimal)
 
 ---
 
 ## ⚠️ Disclaimer
 
+![Disclaimer](https://shields-2-0.vercel.app/badge/⚠️_Disclaimer-As_Is_No_Warranty-warning?style=neon&animate=neon-glow)
+
 Ce framework est fourni "tel quel" sans garanties. L'auteur décline toute responsabilité pour usages inappropriés ou dommages résultant de l'utilisation de ce logiciel.
 
 ---
+
+<div align="center">
+
+![Made By](https://shields-2-0.vercel.app/badge/💫_Made_By-Daouda_Abdoul_Anzize-8b5cf6?style=glass&animate=shimmer)
+![Discovery Date](https://shields-2-0.vercel.app/badge/📅_Discovery_Date-October_7_2025-fbbf24?style=depth)
+![Proprietary](https://shields-2-0.vercel.app/badge/🔒_Proprietary-Methodology-ef4444?style=neon&animate=neon-glow)
 
 **Développé par Daouda Abdoul Anzize**  
 **Méthodologie Propriétaire**  
 **Date Découverte : 7 Octobre 2025**
 
 © 2025 Daouda Abdoul Anzize. All Rights Reserved.
+
+</div>
